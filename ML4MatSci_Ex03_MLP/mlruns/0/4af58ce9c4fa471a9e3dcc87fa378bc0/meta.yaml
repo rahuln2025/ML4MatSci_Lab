@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/narkh/Documents/CMS/Coding_Projects_CMS/Lehre/ML4MatSci/ML4MatSci_Lab/ML4MatSci_Ex03_MLP/mlruns/0/4af58ce9c4fa471a9e3dcc87fa378bc0/artifacts
+end_time: 1757859372870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4af58ce9c4fa471a9e3dcc87fa378bc0
+run_name: learned-shrimp-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757859369112
+status: 4
+tags: []
+user_id: narkh

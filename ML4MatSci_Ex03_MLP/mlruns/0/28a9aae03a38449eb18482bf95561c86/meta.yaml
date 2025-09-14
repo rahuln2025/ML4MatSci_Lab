@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/narkh/Documents/CMS/Coding_Projects_CMS/Lehre/ML4MatSci/ML4MatSci_Lab/ML4MatSci_Ex03_MLP/mlruns/0/28a9aae03a38449eb18482bf95561c86/artifacts
+end_time: 1757859351859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28a9aae03a38449eb18482bf95561c86
+run_name: abrasive-shark-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757859343992
+status: 4
+tags: []
+user_id: narkh

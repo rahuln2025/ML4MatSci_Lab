@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/narkh/Documents/CMS/Coding_Projects_CMS/Lehre/ML4MatSci/ML4MatSci_Lab/ML4MatSci_Ex03_MLP/mlruns/0/fd991c4d95c84d9490ba4729ff44830f/artifacts
+end_time: 1757859212172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd991c4d95c84d9490ba4729ff44830f
+run_name: mercurial-bear-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757859212066
+status: 4
+tags: []
+user_id: narkh

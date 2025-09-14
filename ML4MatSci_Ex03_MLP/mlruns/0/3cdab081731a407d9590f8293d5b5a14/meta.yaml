@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/narkh/Documents/CMS/Coding_Projects_CMS/Lehre/ML4MatSci/ML4MatSci_Lab/ML4MatSci_Ex03_MLP/mlruns/0/3cdab081731a407d9590f8293d5b5a14/artifacts
+end_time: 1757859318244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cdab081731a407d9590f8293d5b5a14
+run_name: serious-tern-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757859314648
+status: 4
+tags: []
+user_id: narkh
